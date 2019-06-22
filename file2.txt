@@ -1,2 +1,3 @@
  file2 add 02
  file1 confict 01
+ file2 confilct test 02
