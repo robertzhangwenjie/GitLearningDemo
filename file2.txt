@@ -1,1 +1,2 @@
  file2 add 02
+ file1 confict 01
